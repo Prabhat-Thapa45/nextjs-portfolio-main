@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "React Portfolio Website",
     description: "My portfolio made in nextjs",
-    image: "https://i.postimg.cc/WpKH0G1P/1.png",
+    image: "https://i.postimg.cc/J4gDByQs/Screenshot-2023-11-28-at-6-25-17-PM.png",
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
