@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "React Portfolio Website",
-    description: "Project 1 description",
+    description: "My portfolio made in nextjs",
     image: "https://i.postimg.cc/WpKH0G1P/1.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Student Repord Card - Django",
-    description: "Project 2 description",
+    description: "This is a complete app that helps teacher update their subject marks for each subject and has complete students profile and report cards can be generated.",
     image: "https://i.postimg.cc/YC8VGJ4d/2.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "Flower Shop - Flask",
-    description: "Project 3 description",
+    description: "This project is a demo shop app that focuses on industry standard coding with test suits and use of proper structure.",
     image: "https://i.postimg.cc/bNtFgZZS/3.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "Food Ordering Application",
-    description: "Project 4 description",
+    description: "This is in progress",
     image: "https://i.postimg.cc/qqgW4QB1/4.png",
     tag: ["All", "Python"],
     gitUrl: "/",
@@ -44,7 +44,7 @@ const projectsData = [
   {
     id: 5,
     title: "IPO Alerts - Flask",
-    description: "Authentication and CRUD operations",
+    description: "This flask based app is used to send alerts in gmail to users subscribed on day when ipo of a company is listed with company name and date till the issue is open.",
     image: "https://i.postimg.cc/bwqWvzvG/5.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -53,7 +53,7 @@ const projectsData = [
   {
     id: 6,
     title: "Football Leagues Table - Flask",
-    description: "Project 5 description",
+    description: "This project web scrapes data from other sites and makes a beautiful table and shows league table of top 4 football leagues.",
     image: "https://i.postimg.cc/K89qvBVV/6.png",
     tag: ["All", "Web"],
     gitUrl: "/",
