@@ -11,7 +11,7 @@ const projectsData = [
     description: "My portfolio made in nextjs",
     image: "https://i.postimg.cc/J4gDByQs/Screenshot-2023-11-28-at-6-25-17-PM.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://prabhat-thapa45.github.io/nextjs-portfolio-main/",
     previewUrl: "/",
   },
   {
@@ -20,7 +20,7 @@ const projectsData = [
     description: "This is a complete app that helps teacher update their subject marks for each subject and has complete students profile and report cards can be generated.",
     image: "https://i.postimg.cc/nLsG8bcW/CBSE-Report-Card-Software-for-2017-18.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Prabhat-Thapa45/studentReportCard",
     previewUrl: "/",
   },
   {
@@ -47,7 +47,7 @@ const projectsData = [
     description: "This flask based app is used to send alerts in gmail to users subscribed on day when ipo of a company is listed with company name and date till the issue is open.",
     image: "https://i.postimg.cc/3JS8kPY9/Screenshot-2023-11-28-at-6-30-58-PM.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Prabhat-Thapa45/ipo_alert_on_mail",
     previewUrl: "/",
   },
   {
@@ -56,7 +56,7 @@ const projectsData = [
     description: "This project web scrapes data from other sites and makes a beautiful table and shows league table of top 4 football leagues.",
     image: "https://i.postimg.cc/GhG0CV9H/d2a48566230697-5b0eedc84ae64.jpg",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Prabhat-Thapa45/premier-league-table.github.io",
     previewUrl: "/",
   },
 ];
