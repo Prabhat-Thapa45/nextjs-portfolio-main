@@ -29,7 +29,7 @@ const projectsData = [
     description: "This project is a demo shop app that focuses on industry standard coding with test suits and use of proper structure.",
     image: "https://i.postimg.cc/bNtFgZZS/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Prabhat-Thapa45/Flower-Shop-Store",
     previewUrl: "/",
   },
   {
